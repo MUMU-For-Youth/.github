@@ -1,7 +1,7 @@
 # Team Members (팀원 및 팀 소개)
 | 김문희 | 박진영 | 배정연 | 장유빈 |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/8924be39-5afa-4705-a938-ef9bfbe89b7c" alt="김문희" width="150"> | <img src="" alt="박진영" width="150"> | <img src="https://github.com/user-attachments/assets/53942e1d-0477-496b-9afc-e132a4dea6c2" alt="배정연" width="150"> | <img src="https://github.com/user-attachments/assets/9a055d76-a8bc-4da3-8d00-8abee45e8cd3" alt="장유빈" width="150"> |
+| <img src="https://github.com/user-attachments/assets/8924be39-5afa-4705-a938-ef9bfbe89b7c" alt="김문희" width="150"> | <img src="https://github.com/user-attachments/assets/16ee8998-6d59-4eab-a9cd-0639dde194f6" alt="박진영" width="150" > | <img src="https://github.com/user-attachments/assets/53942e1d-0477-496b-9afc-e132a4dea6c2" alt="배정연" width="150"> | <img src="https://github.com/user-attachments/assets/9a055d76-a8bc-4da3-8d00-8abee45e8cd3" alt="장유빈" width="150"> |
 | PM/FE | BE | FE/Design | BE |
 | [Mooni GitHub](https://github.com/moon0727) | [Jinaen GitHub](https://github.com/fire-long) | [YeonLog GitHub](https://github.com/bluishflame) | [Youbin GitHub](https://github.com/youbing5921) |
 
